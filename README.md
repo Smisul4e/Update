@@ -1,5 +1,7 @@
 exaluc/README.md
+
 Hi there 👋
+
 def work_life_balance(task: str, mood: str = 'neutral') -> str:
     """
     A function to balance work and fun.
